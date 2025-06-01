@@ -8,8 +8,6 @@
 <summary> 🔭 My first year projects </summary>
       
      1. Budget Manager (Using C++ and OOP)
-     2. Travel Planner (Using React Native ,Express,Node.js and MongoDB)
-     3. sorting- visualizer (using html,css,React.js,Chart.js,Javascript)
     
 </details>
 
