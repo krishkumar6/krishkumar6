@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**krishkumar6/krishkumar6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Data Structures algorithms and DataBase.
+- 📫 Let's Connect: https://www.linkedin.com/in/krish-kumar24/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary> 🔭 My first year projects </summary>
+      
+     1. Budget Manager (Using C++ and OOP)
+     2. Travel Planner (Using React Native ,Express,Node.js and MongoDB)
+     3. sorting- visualizer (using html,css,React.js,Chart.js,Javascript)
+    
+</details>
+
+<details>
+<summary>My top languages</summary>
+
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| C++       |
+|     2| HTML      |
+|     3| CSS       |
+|     4| SQL       |            
+|     5| Javascript|
+
+</details>
